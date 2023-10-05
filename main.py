@@ -84,5 +84,3 @@ btn_res = tk.Button(root, text="=", command=evaluate_calculation, width=10, font
 btn_res.grid(row=6, column=3, columnspan=2)
 
 root.mainloop()
-
-#ffff
